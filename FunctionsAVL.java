@@ -197,21 +197,3 @@ public class FunctionsAVL {
     	}
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-//    		if (ticket.getPurchaseTime().isBefore(node.ticket.getPurchaseTime())) {   
-//    		else if (ticket.getPurchaseTime().isAfter(node.ticket.getPurchaseTime()))
-//if (balance > 1 && ticket.getPurchaseTime().isBefore(node.left.ticket.getPurchaseTime()))
-//else if (balance < -1 && ticket.getPurchaseTime().isAfter(node.right.ticket.getPurchaseTime()))
-//else if (balance > 1 && ticket.getPurchaseTime().isAfter(node.left.ticket.getPurchaseTime())) {
-//else if (balance < -1 && ticket.getPurchaseTime().isBefore(node.right.ticket.getPurchaseTime())) {
