@@ -27,7 +27,6 @@ public class MainClass {
 			System.out.println("Enter 7 to UNDO A RESOLVED TICKET: ");  // WORKING 
 			System.out.println("Enter 0 to exit: ");
 			System.out.println("_______________________\n");
-//			try {	
 				input = s.nextInt();
 				switch (input) {
 				case 1:
@@ -89,50 +88,9 @@ public class MainClass {
 					System.out.println("You've exited the program!");
 					break;
 				}
-//			}
-//			catch (InputMismatchException i) {
-//				System.out.println("Invalid input. Try again.");
-//			}
 		}
 		while (input<9&&input>=0);
-
-
 	}
 
 }
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-//	MainClass n1 = new MainClass();
-//	System.out.println(n1.number);
-//	MainClass n2 = new MainClass();
-//	System.out.println(n2.number);
-//	MainClass n3 = new MainClass();
-//	System.out.println(n3.number);
-//	MainClass n4 = new MainClass();
-//	System.out.println(n4.number);
-//	int a = s.nextInt();
-//	switch(a) 
-//	{
-//	case a>1:
-//		System.out.println("A is: "+a);
-//	}
-//	while(a>0);
 
